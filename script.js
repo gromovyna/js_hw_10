@@ -11,5 +11,5 @@ function mult(x) {
 	return x *= 100;
 }
     
-console.log(main(4,3,mult))
+console.log(main(4, 3, mult))
 
